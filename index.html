@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人主页</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #f7f9fc;
+            color: #2d3748;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+        }
+        .avatar {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #fff;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .name {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .bio {
+            font-size: 17px;
+            color: #4a5568;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        .links a {
+            display: inline-block;
+            margin: 0 8px;
+            color: #3182ce;
+            text-decoration: none;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            font-size: 22px;
+            margin-bottom: 16px;
+            border-left: 4px solid #3182ce;
+            padding-left:12px;
+        }
+        .project-card {
+            background: #ffffff;
+            padding:20px;
+            border-radius:10px;
+            margin-bottom:16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .project-card h3{
+            margin-bottom:6px;
+        }
+        .project-card p{
+            color:#555;
+            font-size:15px;
+        }
+        .project-card a{
+            color:#3182ce;
+            text-decoration:none;
+        }
+        .footer{
+            text-align:center;
+            margin-top:60px;
+            color:#718096;
+            font-size:14px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <!-- 替换为你的头像图片地址，可以上传图片到仓库填相对路径 -->
+        <img class="avatar" src="https://via.placeholder.com/140" alt="avatar">
+        <div class="name">你的名字</div>
+        <div class="bio">
+            前端开发 / 学生 / 技术爱好者。热爱写代码，乐于分享技术笔记，这里是我的个人站点。
+        </div>
+        <div class="links">
+            <a href="https://github.com/你的github用户名" target="_blank">GitHub</a>
+            <a href="mailto:xxx@example.com">Email</a>
+            <a href="#">博客</a>
+        </div>
+    </div>
+
+    <section>
+        <h2>👋 关于我</h2>
+        <p>
+            这里写你的自我介绍。可以写你的技术栈、学习方向、兴趣爱好。
+            <br>例如：熟悉 Vue、JavaScript、HTML/CSS，喜欢做开源小项目，记录学习过程。
+        </p>
+    </section>
+
+    <section>
+        <h2>🚀 项目</h2>
+
+        <div class="project-card">
+            <h3>项目名称一</h3>
+            <p>项目简单描述，实现了什么功能，使用什么技术。</p>
+            <div style="margin-top:8px">
+                <a href="https://github.com/xxx/xxx" target="_blank">Github仓库</a>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <h3>项目名称二</h3>
+            <p>项目简单描述，实现了什么功能，使用什么技术。</p>
+            <div style="margin-top:8px">
+                <a href="#" target="_blank">在线预览</a>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>📝 笔记</h2>
+        <ul style="padding-left:22px;">
+            <li><a href="#">笔记1：JavaScript小知识点</a></li>
+            <li><a href="#">笔记2：Vue开发踩坑记录</a></li>
+        </ul>
+    </section>
+
+    <div class="footer">
+        © 2026 你的名字 | Powered by GitHub Pages
+    </div>
+</div>
+</body>
+</html>
