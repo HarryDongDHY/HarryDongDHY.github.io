@@ -1,0 +1,15 @@
+{
+  "title": "Home | Haoyu Dong",
+  "avatarAlt": "avatar",
+  "name": "Harry Dong",
+  "bio": "Master Student, Nanjing Audit University",
+  "aboutMe": "About Me",
+  "aboutContent": "I am Harry Dong, a 2024-grade master student at the School of Computer Science, Nanjing Audit University.<br /><br />My research interests include federated learning, federated graph learning, edge computing and privacy-preserving machine learning. My work focuses on data heterogeneity, noise robustness, communication efficiency and edge deployment under complex heterogeneous federated settings.",
+  "projects": "Projects",
+  "proj1Title": "2026 Jiangsu Postgraduate Research & Practice Innovation Program",
+  "proj1Desc": "Research on One-Shot Federated Graph Learning for Highly Heterogeneous Graph Data",
+  "publications": "Publications",
+  "pub1": "Shen F, Dong H, Xu C, et al. HeliFed: A Dual-Helix Framework for Noise-Robust Federated Learning [J]. Information Sciences, 2026: 123460.(CCF B / JCR Q1)",
+  "pub2": "Shen F, Dong H, et al. MAGMA: Communication-Efficient One-Shot Federated Graph Learning for Highly Heterogeneous Mobile Edge Networks. IEEE Transactions on Mobile Computing(CCF A / JCR Q1, Under Review)",
+  "footer": "© 2026 Haoyu Dong | Powered by GitHub Pages"
+}
