@@ -1,0 +1,25 @@
+# 系统生成文件
+.DS_Store
+Thumbs.db
+
+# VSCode 配置
+.vscode/
+*.code-workspace
+
+# 编辑器临时文件
+*~
+*.swp
+*.swo
+
+# node 相关（如果你后面用npm/vite）
+node_modules/
+npm-debug.log*
+
+# 本地生成输出文件夹
+dist/
+_output/
+_site/
+
+# 临时文件
+*.tmp
+*.log
