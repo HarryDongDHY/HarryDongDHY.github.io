@@ -9,14 +9,14 @@
       "img": "/pic/news1.jpg",
       "title": "Performed three shows at Nanjing Audit University Graduation Concert 2026",
       "date": "2026-06-22",
-      "desc": "Performed three songs: Call Your Name Ten Thousand Times, Distant Mountains Like Yesterday, Evening Bell at Nanping Hill",
+      "desc": "Performed three songs: 《把你的名字念一万遍》,《远山如昨》,《南屏晚钟》",
       "link": "https://mp.weixin.qq.com/s/mbCSMTfBRRKTtg2WPa6--Q"
     },
     {
       "img": "/pic/news2.jpg",
       "title": "Participated in the 26th Top-10 Singer Final and won the runner-up",
       "date": "2026-05-17",
-      "desc": "Songs: The Classic, Girl Achu",
+      "desc": "Songs: 《假如爱有天意》,《阿楚姑娘》",
       "link": "https://mp.weixin.qq.com/s/ApCDSJGJ_aUsiJhQ6o3KTQ"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "label": "Address",
-      "value": "Nanjing Audit University, Nanjing, Jiangsu Province",
+      "value": "Nanjing Audit University, Nanjing, Jiangsu Province, China",
       "link": "",
       "icon": "mdi:map-marker-outline",
       "type": "normal"
