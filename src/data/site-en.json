@@ -1,0 +1,160 @@
+{
+  "about": [
+    {
+      "content": "Harry Dong is a master's student (2024-entry) in the School of Computer Science, Nanjing Audit University.<br><br>His research interests include federated learning, federated graph learning, edge computing, and privacy-preserving machine learning. His current research focuses on data heterogeneity, noise robustness, communication efficiency, and edge deployment in federated learning under complex and heterogeneous environments.<br><br>He currently presides over one Jiangsu Provincial Postgraduate Research and Practice Innovation Program. He has published one academic paper, with another paper under external review. He has publicly disclosed two invention patents, with one additional patent under acceptance. He has won three provincial-level and above awards.<br><br>In terms of engineering practice, he has more than half a year of front-end development experience and is proficient in the Vue framework. In the summer of 2025, he interned at the Beijing headquarters of COFCO Group as a Big Data Analyst, solidifying his capabilities in data analysis, data processing and practical project implementation."
+    }
+  ],
+  "news": [
+    {
+      "img": "/pic/news1.jpg",
+      "title": "Performed three shows at Nanjing Audit University Graduation Concert 2026",
+      "date": "2026-06-22",
+      "desc": "Performed three songs: Call Your Name Ten Thousand Times, Distant Mountains Like Yesterday, Evening Bell at Nanping Hill",
+      "link": "https://mp.weixin.qq.com/s/mbCSMTfBRRKTtg2WPa6--Q"
+    },
+    {
+      "img": "/pic/news2.jpg",
+      "title": "Participated in the 26th Top-10 Singer Final and won the runner-up",
+      "date": "2026-05-17",
+      "desc": "Songs: The Classic, Girl Achu",
+      "link": "https://mp.weixin.qq.com/s/ApCDSJGJ_aUsiJhQ6o3KTQ"
+    },
+    {
+      "img": "/pic/news3.png",
+      "title": "Invited Speaker for the Seminar “Empowering Learning and Research with AI Tools”",
+      "date": "2026-04-29",
+      "desc": "Delivered a keynote sharing practical skills and experience of AI-enabled scientific research, efficient learning and paper-assisted writing.",
+      "link": "https://mp.weixin.qq.com/s/LeIlWTeBLurZHNxoSgPbVg?poc_token=HBkhiGqjStrtixOjgV2zwHQ0SpvPWQGNeXZjsHwW"
+    },
+    {
+      "img": "/pic/news4.png",
+      "title": "Invited Speaker for the 6th \"Runze Youth Talk\" Event",
+      "date": "2026-03-12",
+      "desc": "Shared experience on academic growth, scientific research exploration and comprehensive quality development.",
+      "link": "https://mp.weixin.qq.com/s/Qwc6bQs2OOSMXGyknJ53SQ"
+    }
+  ],
+  "project": [
+    {
+      "title": "2026 Jiangsu Postgraduate Research & Practice Innovation Program",
+      "projectNo": "26CXJH4103",
+      "role": "Principal Investigator",
+      "time": "2026.06 - 2027.06",
+      "desc": "Research on One-Shot Federated Graph Learning for Highly Heterogeneous Graph Data"
+    }
+  ],
+  "pub": [
+    {
+      "content": "Shen F, Dong H, Xu C, et al. HeliFed: A Dual-Helix Framework for Noise-Robust Federated Learning [J]. Information Sciences, 2026: 123460.(CCF B / JCR Q1)"
+    },
+    {
+      "content": "Shen F, Dong H, et al. MAGMA: Communication-Efficient One-Shot Federated Graph Learning for Highly Heterogeneous Mobile Edge Networks. IEEE Transactions on Mobile Computing(CCF A / JCR Q1, Under Review)"
+    }
+  ],
+  "patent": [
+    {
+      "content": "Shen F, Su W, Dong H, et al. A Two-Stage Knowledge Distillation Method Based on Federated Learning. Chinese Invention Patent, CN121436090A."
+    },
+    {
+      "content": "Shen F, Su W, Liu Z, Dong H, et al. A Federated Classifier Optimization Method Based on Knowledge Distillation. Chinese Invention Patent, CN121705684A."
+    },
+    {
+      "content": "Shen F, Dong H, et al. Moment Alignment and Global Mixing Method and System for One-Shot Federated Graph Learning. Chinese Invention Patent (Under acceptance)"
+    }
+  ],
+  "honor": [
+    {
+      "title": "Runner-up, 26th Campus Top-10 Singer Contest of Nanjing Audit University",
+      "year": "2026"
+    },
+    {
+      "title": "Excellent Communist Youth League Member, 2025-2026 Academic Year",
+      "year": "2026"
+    },
+    {
+      "title": "First Prize, 1st Top-10 Singer Contest, School of Computer Science, Nanjing Audit University",
+      "year": "2026"
+    },
+    {
+      "title": "Second Prize, \"Challenge Cup\" Entrepreneurship Competition (University Level), Nanjing Audit University",
+      "year": "2026"
+    },
+    {
+      "title": "Third Prize, \"Challenge Cup\" Entrepreneurship Competition (University Level), Nanjing Audit University",
+      "year": "2026"
+    },
+    {
+      "title": "Third-class Postgraduate Scholarship & Individual Merit Scholarship",
+      "year": "2025"
+    },
+    {
+      "title": "Third Place, 25th Campus Top-10 Singer Contest of Nanjing Audit University",
+      "year": "2025"
+    },
+    {
+      "title": "6th Place, 60-meter Shuttle Run Group Event, 34th Sports Meeting of Nanjing Audit University",
+      "year": "2025"
+    },
+    {
+      "title": "Top-10 Singer, 6th Postgraduate Top-10 Singer Contest of Nanjing Audit University",
+      "year": "2025"
+    },
+    {
+      "title": "Third-class Postgraduate Scholarship",
+      "year": "2024"
+    },
+    {
+      "title": "Certificate, 6th SRSE International Conference on System Reliability and Safety Engineering",
+      "year": "2024"
+    },
+    {
+      "title": "National Third Prize, China University Computer Design Competition",
+      "year": "2022"
+    },
+    {
+      "title": "Provincial Third Prize, China University Computer Design Competition",
+      "year": "2022"
+    }
+  ],
+  "life": [
+    {
+      "date": "2026-08-16",
+      "content": "Volunteered at the Nanjing Lin Dan Cup. I met many athletes and learned a great deal about badminton techniques.",
+      "location": "Nanjing · Nanjing Olympic Sports Center Gymnasium",
+      "images": [
+        "/pic/life/photo1.jpg",
+        "/pic/life/photo2.jpg",
+        "/pic/life/photo3.jpg",
+        "/pic/life/photo4.jpg",
+        "/pic/life/photo5.jpg",
+        "/pic/life/photo6.jpg",
+        "/pic/life/photo7.jpg",
+        "/pic/life/photo8.jpg",
+        "/pic/life/photo9.jpg"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "label": "Email",
+      "value": "mp2409035@stu.nau.edu.cn",
+      "link": "mailto:mp2409035@stu.nau.edu.cn",
+      "icon": "mdi:email-outline",
+      "type": "normal"
+    },
+    {
+      "label": "GitHub",
+      "value": "https://github.com/HarryDongDHY",
+      "link": "https://github.com/HarryDongDHY",
+      "icon": "mdi:github",
+      "type": "normal"
+    },
+    {
+      "label": "Address",
+      "value": "Nanjing Audit University, Nanjing, Jiangsu Province",
+      "link": "",
+      "icon": "mdi:map-marker-outline",
+      "type": "normal"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "about": [
+    {
+      "content": "董昊宇，男，现为南京审计大学计算机学院2024级硕士研究生。<br><br>本人主要研究方向包括联邦学习、联邦图学习、边缘计算以及隐私保护机器学习。硕士期间，主要围绕复杂异构环境下联邦学习中的数据异质性、噪声鲁棒性、通信效率与边缘部署等关键问题开展研究。<br><br>目前主持江苏省研究生科研实践创新计划项目1项，已发表学术论文1篇、外审1篇，公开发明专利2项，另有1项发明专利正在受理阶段，累计获得三项省级以上竞赛奖项。<br><br>工程实践方面，拥有半年以上前端开发工作经验，熟练使用 Vue 框架进行项目开发；2025年暑期于中粮集团北京总部实习，担任大数据分析师，具备扎实的数据分析、数据处理与工程落地能力。"
+    }
+  ],
+  "news": [
+    {
+      "img": "/pic/news1.jpg",
+      "title": "在2026年南京审计大学毕业歌会参与了三场表演",
+      "date": "2026-06-22",
+      "desc": "参与表演了三首歌曲《把你的名字念一万遍》、《远山如昨》、《南屏晚钟》",
+      "link": "https://mp.weixin.qq.com/s/mbCSMTfBRRKTtg2WPa6--Q"
+    },
+    {
+      "img": "/pic/news2.jpg",
+      "title": "参与南京审计大学第二十六届十佳歌手决赛，最终获得亚军",
+      "date": "2026-05-17",
+      "desc": "第一首歌曲为《假如爱有天意》，第二首歌曲为《阿楚姑娘》",
+      "link": "https://mp.weixin.qq.com/s/ApCDSJGJ_aUsiJhQ6o3KTQ"
+    },
+    {
+      "img": "/pic/news3.png",
+      "title": "受邀担任计算机学院“数智赋能·学海领航——AI工具在学习中的应用”专题分享会主讲人",
+      "date": "2026-04-29",
+      "desc": "主讲AI赋能科研、高效学习与论文辅助创作的实用技巧与实践经验。",
+      "link": "https://mp.weixin.qq.com/s/LeIlWTeBLurZHNxoSgPbVg?poc_token=HBkhiGqjStrtixOjgV2zwHQ0SpvPWQGNeXZjsHwW"
+    },
+    {
+      "img": "/pic/news4.png",
+      "title": "受邀担任学校第六期“润泽青年说”主题分享活动分享人",
+      "date": "2026-03-12",
+      "desc": "围绕学业成长、科研探索与综合素质发展进行经验分享与交流。",
+      "link": "https://mp.weixin.qq.com/s/Qwc6bQs2OOSMXGyknJ53SQ"
+    }
+  ],
+  "project": [
+    {
+      "title": "2026年度江苏省研究生科研实践创新计划",
+      "projectNo": "26CXJH4103",
+      "role": "主持",
+      "time": "2026.06 - 2027.06",
+      "desc": "面向高异构图数据的单轮联邦图学习方法研究"
+    }
+  ],
+  "pub": [
+    {
+      "content": "Shen F, Dong H, Xu C, et al. HeliFed: A Dual-Helix Framework for Noise-Robust Federated Learning [J]. Information Sciences, 2026: 123460.（CCF B / SCI 1区 / JCR Q1，导师第一作者，本人第二作者）"
+    },
+    {
+      "content": "Shen F, Dong H, et al. MAGMA: Communication-Efficient One-Shot Federated Graph Learning for Highly Heterogeneous Mobile Edge Networks. IEEE Transactions on Mobile Computing（CCF A / SCI 2区 / JCR Q1，投稿中，导师第一作者，本人第二作者）"
+    }
+  ],
+  "patent": [
+    {
+      "content": "沈凡凡, 苏文璋, 董昊宇, 等. 一种基于联邦学习的双阶段知识蒸馏方法. 中国发明专利, CN121436090A."
+    },
+    {
+      "content": "沈凡凡, 苏文璋, 刘梓昂, 董昊宇, 等. 一种基于知识蒸馏的联邦分类器优化方法. 中国发明专利, CN121705684A."
+    },
+    {
+      "content": "沈凡凡, 董昊宇, 等. 一种单轮联邦图学习的矩对齐与全局混合方法及其系统. 中国发明专利（受理中）"
+    }
+  ],
+  "honor": [
+    {
+      "title": "南京审计大学第二十六届校园十佳歌手大赛中获得亚军",
+      "year": "2026"
+    },
+    {
+      "title": "2025-2026学年校级优秀中国共产主义青年团团员",
+      "year": "2026"
+    },
+    {
+      "title": "南京审计大学计算机学院第一届十佳歌手大赛一等奖",
+      "year": "2026"
+    },
+    {
+      "title": "南京审计大学 2026 年“挑战杯”大学生创业计划竞赛校级二等奖",
+      "year": "2026"
+    },
+    {
+      "title": "南京审计大学 2026 年“挑战杯”大学生创业计划竞赛校级三等奖",
+      "year": "2026"
+    },
+    {
+      "title": "2025年研究生学业三等奖学金和单项奖学金",
+      "year": "2025"
+    },
+    {
+      "title": "南京审计大学第二十五届校园十佳歌手大赛中获得季军",
+      "year": "2025"
+    },
+    {
+      "title": "南京审计大学第三十四届运动会60米折返跑团体第六名",
+      "year": "2025"
+    },
+    {
+      "title": "南京审计大学第六届研究生十佳歌手大赛中获得十佳歌手",
+      "year": "2025"
+    },
+    {
+      "title": "2024年研究生学业三等奖学金",
+      "year": "2024"
+    },
+    {
+      "title": "第六届SRSE系统可靠性与安全工程国际学术会议认证证书",
+      "year": "2024"
+    },
+    {
+      "title": "中国大学生计算机设计大赛国赛三等奖",
+      "year": "2022"
+    },
+    {
+      "title": "中国大学生计算机设计大赛省赛三等奖",
+      "year": "2022"
+    }
+  ],
+  "life": [
+    {
+      "date": "2026-08-16",
+      "content": "来到南京林丹杯做志愿活动，见到了很多运动员，学习了很多羽毛球技术",
+      "location": "南京市·南京奥林匹克体育中心-体育馆",
+      "images": [
+        "/pic/life/photo1.jpg",
+        "/pic/life/photo2.jpg",
+        "/pic/life/photo3.jpg",
+        "/pic/life/photo4.jpg",
+        "/pic/life/photo5.jpg",
+        "/pic/life/photo6.jpg",
+        "/pic/life/photo7.jpg",
+        "/pic/life/photo8.jpg",
+        "/pic/life/photo9.jpg"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "label": "邮箱 Email",
+      "value": "mp2409035@stu.nau.edu.cn",
+      "link": "mailto:mp2409035@stu.nau.edu.cn",
+      "icon": "mdi:email-outline",
+      "type": "normal"
+    },
+    {
+      "label": "GitHub",
+      "value": "https://github.com/HarryDongDHY",
+      "link": "https://github.com/HarryDongDHY",
+      "icon": "mdi:github",
+      "type": "normal"
+    },
+    {
+      "label": "地址 Address",
+      "value": "江苏省南京市 南京审计大学",
+      "link": "",
+      "icon": "mdi:map-marker-outline",
+      "type": "normal"
+    }
+  ]
+}
